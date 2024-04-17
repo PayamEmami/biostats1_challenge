@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "challenge.html",
+    "href": "challenge.html",
+    "title": "Hypothesis testing challenge",
+    "section": "",
+    "text": "The purpose of this challenge is to enhance your understanding of various hypothesis testing methods. You will be working with a dataset that includes 100 features (e.g, gene expression) across 100 samples, divided into ‘Treatment’ and ‘Control’ groups.\nYou can read the data using:\n\nexpression_data &lt;- read.csv(\"https://raw.githubusercontent.com/PayamEmami/biostats1_challenge/main/expression_data.csv\",row.names = 1)\nmetadata &lt;- read.csv(\"https://raw.githubusercontent.com/PayamEmami/biostats1_challenge/main/metadata.csv\",row.names = 1)\n\n\n\nYour tasks is to perform hypothesis testing using the methods we learned on Day 2 of the course (for example Bootstrap, Permutation, Parametric or Non-Parametric) and find differentially expressed genes.\nYou can check your results using Venn diagram.\n\n\n\nFit a GLM for each feature and choose an appropriate covariate and also link function based on the distribution of your data (Day 3). Assess the significance of the group effect for each feature using the model coefficients and their p-values.\nYou can check your results using Venn diagram."
+  },
+  {
+    "objectID": "challenge.html#task1",
+    "href": "challenge.html#task1",
+    "title": "Hypothesis testing challenge",
+    "section": "",
+    "text": "Your tasks is to perform hypothesis testing using the methods we learned on Day 2 of the course (for example Bootstrap, Permutation, Parametric or Non-Parametric) and find differentially expressed genes.\nYou can check your results using Venn diagram."
+  },
+  {
+    "objectID": "challenge.html#task2",
+    "href": "challenge.html#task2",
+    "title": "Hypothesis testing challenge",
+    "section": "",
+    "text": "Fit a GLM for each feature and choose an appropriate covariate and also link function based on the distribution of your data (Day 3). Assess the significance of the group effect for each feature using the model coefficients and their p-values.\nYou can check your results using Venn diagram."
+  }
+]

@@ -21,14 +21,14 @@ metadata <- read.csv("https://raw.githubusercontent.com/PayamEmami/biostats1_cha
 
 Your tasks is to perform hypothesis testing using the methods we learned on Day 2 of the course (for example Bootstrap, Permutation, Parametric or Non-Parametric) and find differentially expressed genes. 
 
-You can check your results using [about](#ch). 
+You can check your results using [Venn diagram](#ch). 
 
 
 ## Task2:
 
 Fit a GLM for each feature and choose an appropriate covariate and also link function based on the distribution of your data (Day 3). Assess the significance of the group effect for each feature using the model coefficients and their p-values. 
 
-You can check your results using [about](#ch). 
+You can check your results using [Venn diagram](#ch). 
 
 # Check your results {#ch}
 
